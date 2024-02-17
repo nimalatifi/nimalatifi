@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nimalatifi
 - 👀 I’m interested in JavaScript programing
-- 🌱 I’m currently learning ecma script and React.js 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 If you need to get in touch with me, you can reach me at nima.latifi@gmail.com
 
